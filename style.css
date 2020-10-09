@@ -1,0 +1,140 @@
+body{
+background-color: #E0FFFF;
+text-align: center;
+margin: 100px;
+padding: 0%;
+}
+
+
+.btn{
+    font-size: 24px;
+    width: 9%;
+    height: 47px;
+    border: 4px;
+    border-radius: 11px;
+    margin: 32px 0;
+    outline: none;
+    padding: 7px;
+    box-sizing: border-box;
+    transition: 1.5s;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Secular One', sans-serif;
+    border-color: dodgerblue;
+    box-shadow: 0 0 8px 0 dodgerblue;
+    background-color: red
+}
+
+
+
+#todo-item{
+
+font-size: 24px;
+width: 42%;
+height: 61px;
+border: 2px;
+border-radius: 4px;
+margin: 8px 0;
+outline: none;
+padding: 8px;
+box-sizing: border-box;
+ transition: 1.5s;
+ font-family: 'Oswald', sans-serif;
+font-family: 'Secular One', sans-serif;
+  border-color: dodgerblue;
+ box-shadow: 0 0 8px 0 dodgerblue;
+ }
+
+ #add{
+    
+  font-size: 17px;
+    width: 11%;
+    height: 50px;
+    border: 2px;
+    border-radius: 4px;
+    margin: 8px 2px;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+     transition: 1.5s;
+     font-family: 'Oswald', sans-serif;
+font-family: 'Secular One', sans-serif;
+     border-color: dodgerblue;
+     box-shadow: 0 0 10px 0 dodgerblue;
+background-color: rgb(50, 176, 207);
+
+
+ }
+
+ #del{
+    
+     font-size: 17px;
+    width: 11%;
+    height: 50px;
+    border: 2px;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+     transition: 1.5s;
+     font-family: 'Oswald', sans-serif;
+     font-family: 'Secular One', sans-serif;
+     border-color: dodgerblue;
+     box-shadow: 0 0 10px 0 dodgerblue;
+background-color: rgb(50, 176, 207);
+
+
+ }
+
+ #add :hover{ 
+
+box-shadow: 0 5px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee
+            0 5px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+ }
+
+#h1{
+
+text-align: center;
+font-size: 68px;
+color: rgb(23, 141, 196);
+font-family: 'Oswald', sans-serif;
+font-family: 'Secular One', sans-serif;
+}
+
+
+.edit{
+    
+    box-shadow: #15f4ee;
+    font-size: 24px;
+    width: 9%;
+    height: 47px;
+    border: 4px;
+    border-radius: 11px;
+    margin: 42px 8px;
+    outline: none;
+    padding: 7px;
+    box-sizing: border-box;
+    transition: 1.5s;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Secular One', sans-serif;
+    border-color: dodgerblue;
+    box-shadow: 0 0 8px 0 dodgerblue;
+    background-color: green
+}
+
+
+#list{
+    
+list-style: none;
+font-size: 25px;
+font-family: 'Oswald', sans-serif;
+    font-family: 'Secular One', sans-serif;
+
+display: inline;
+flex-direction: row;
+
+
+
+}
+
+
